@@ -1,5 +1,5 @@
-local NameofHub = 'WelcomeHUBV1'
-local NameofHub2 = 'WelcomeHUBV1'
+local NameofHub = 'WelcomeHUBV2'
+local NameofHub2 = 'WelcomeHUBV2'
 
 function loadbn()
     do
